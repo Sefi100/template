@@ -1,2 +1,2 @@
 # Python in the lab
-intro package for using Python as a lab experiment evaluating tool
+Intro package for using Python as a lab experiment evaluating tool.
